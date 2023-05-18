@@ -1,0 +1,7 @@
+reference:
+
+透過 svglib 將 SVG 轉成 PNG
+https://clay-atlas.com/blog/2019/12/03/python-chinese-tutorial-package-svglib-svg-png/
+
+在SVG文件的最上層添加一個圓形元素
+chatgpt
